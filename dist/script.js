@@ -289,8 +289,8 @@ document.addEventListener("click", function (e) {
 		}, 400);
 	}
 
-	// REMOVAL
-	// Cart pop up removal
+	 
+	// Cart popup remove
 	if (!popUp.classList.contains("hide")) {
 		popUp.classList.add("hide");
 	}
