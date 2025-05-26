@@ -11,6 +11,12 @@ A clean and interactive e-commerce product page built as part of the [Frontend M
 
 ---
 
+## 📸 Preview
+
+| Desktop                          | Mobile                           |
+|----------------------------------|----------------------------------|
+| ![Desktop Preview](https://res.cloudinary.com/dz209s6jk/image/upload/v1715957580/Challenges/nhkdufgdnwztbo4q6hsf.jpg) | ![Mobile Preview](https://res.cloudinary.com/dz209s6jk/image/upload/v1715957580/Challenges/iuic0ostr7vgis8orme9.jpg) |
+
  
 ---
 
