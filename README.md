@@ -7,7 +7,7 @@ A clean and interactive e-commerce product page built as part of the [Frontend M
 
 ## 🚀 Live Demo
 
-👉 [View Live Site](https://your-deployment-link.com)
+👉 [View Live Site](https://e-commerce-product-page-ivory.vercel.app/)
 
 ---
 
